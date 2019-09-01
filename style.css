@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+ margin: 0 auto;
+  width:50%;
+}
+nav  {
+  margin:0;
+    padding:0;
+    text-align:center;
+}
+nav li {
+  display: inline;
+}
+nav a {
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey;
+}
+figcaption {
+  text-align: center;
+  font-size: 12px;
+}
+#featured-property {
+  
+  text-align: center;
+}
+#details {
+  display: block;
+}
+div {
+  float:left;
+  background-color: green;
+  text-align: center;
+  width: 25%;
+}
