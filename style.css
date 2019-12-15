@@ -6,12 +6,10 @@ is
 a comment! */
 
 /* CSS Syntax:
-
 selector {
   property: value;
   property: value;
 }
-
 */
 
 /* Type selector */
@@ -55,7 +53,7 @@ figcaption {
   font-family: 'Elsie Swash Caps', cursive;
 }
 
-/* Psuedo Selector */
+
 
 #details a:link, #details a:visited {
   color: black;
